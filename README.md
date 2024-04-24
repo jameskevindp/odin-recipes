@@ -1,3 +1,2 @@
 # odin-recipes
-
-Created recipe site mainly for experimenting HTML capabilities
+create for odin project progression
